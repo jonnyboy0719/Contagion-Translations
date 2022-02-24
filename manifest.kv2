@@ -1,0 +1,14 @@
+Manifest
+{
+	Languages = [
+		"english",
+		"brazilian",
+		"italian",
+		"koreana",
+		"russian",
+		"schinese",
+		"tchinese",
+		"spanish",
+		"turkish"
+	]
+}
