@@ -1,2 +1,2 @@
-*.txt text
-*.kv2 text
+*.txt diff
+*.kv2 diff
